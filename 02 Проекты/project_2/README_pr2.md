@@ -186,7 +186,7 @@
 
 Для просмотра кода, предлагаю перейти по сслыкам. 
 
-1. [Ссылка на git hub]()
+1. [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_2/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 2. [Ссылка на colab](https://colab.research.google.com/drive/18SZ3WtNB2dZ49YuqQGRRTfpESo8CmpLN)
 
 
