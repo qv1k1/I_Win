@@ -6,9 +6,9 @@
 
 ## Оглавление:
 
-* [1. Project_0 "Угадай число"](start.md#1-project_0-угадай-число)
-* [2. Project_1 "Визуализация данных"](start.md#2-project_1-визуализация-данных)
-* [3. Project_2 "Аналитик в компании HeadHunter"](start.md#3-project_2-аналитик-в-компании-headhunter)
+* [1. Project_0 "Угадай число"](README.md#1-project_0-угадай-число)
+* [2. Project_1 "Визуализация данных"](README.md#2-project_1-визуализация-данных)
+* [3. Project_2 "Аналитик в компании HeadHunter"](README.md#3-project_2-аналитик-в-компании-headhunter)
 
 Есть несколько вариантов ознакомится с моими работами:
 
@@ -33,4 +33,4 @@
 * [Ссылка на Git Hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_2/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 * [Ссылка на Colab](https://colab.research.google.com/drive/18SZ3WtNB2dZ49YuqQGRRTfpESo8CmpLN)
 
-> [К оглавлению](start.md#оглавление)
+> [К оглавлению](README.md#оглавление)
