@@ -10,6 +10,9 @@
 * [2. Project_1 "Визуализация данных"](README.md#2-project_1-визуализация-данных)
 * [3. Project_2 "Аналитик в компании HeadHunter"](README.md#3-project_2-аналитик-в-компании-headhunter)
 * [4. Project_3 "Анализ вакансий из HeadHunter"](README.md#4-project_3-анализ-вакансий-из-headhunter)
+* [5. Project_4 "ИССЛЕДОВАНИЕ ДАННЫХ HR-АГЕНТСТВА"](README.md#5-project_4-исследование-данных-hr-агентства)
+
+
 
 Есть несколько вариантов ознакомится с моими работами:
 
