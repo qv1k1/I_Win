@@ -41,4 +41,10 @@
 * [Ссылка на Git Hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_3/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 * [Ссылка на Colab](https://colab.research.google.com/drive/1U2IquL6yLeRFkFkXjB9WUBiJt15IDfin?usp=sharing)
 
+### 5. Project_4 "ИССЛЕДОВАНИЕ ДАННЫХ HR-АГЕНТСТВА"
+
+* [Ссылка Readme.md](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_4/README.md)
+* [Ссылка на Git Hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_4/EDA-4_HR_agency.ipynb)
+* [Ссылка на Colab](https://colab.research.google.com/drive/1AbHpfqgzcLiesq9NJWLznjB6F3jSZle9?usp=sharing)
+
 > [К оглавлению](README.md#оглавление)
