@@ -292,8 +292,8 @@ salary_currency|	Валюта выплачиваемой заработной п
 
 Для просмотра кода, предлагаю перейти по сслыкам. 
 
-1. [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_4/EDA-4_HR_agency.ipynb)
-2. [Ссылка на colab](https://colab.research.google.com/drive/1AbHpfqgzcLiesq9NJWLznjB6F3jSZle9?usp=sharing)
+1. [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_4/EDA-4.2_HR_agency.ipynb)
+2. [Ссылка на colab](https://colab.research.google.com/drive/1QDmZZdT8i3-nltIDOlCaLW0cDdEijEZj?usp=sharing)
 
 
 ### Выводы
