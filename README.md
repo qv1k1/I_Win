@@ -11,6 +11,7 @@
 * [3. Project_2 "Аналитик в компании HeadHunter"](README.md#3-project_2-аналитик-в-компании-headhunter)
 * [4. Project_3 "Анализ вакансий из HeadHunter"](README.md#4-project_3-анализ-вакансий-из-headhunter)
 * [5. Project_4 "ИССЛЕДОВАНИЕ ДАННЫХ HR-АГЕНТСТВА"](README.md#5-project_4-исследование-данных-hr-агентства)
+* [6. Project_5 "Визуализация и логирование данных"](README.md#6-project_5-визуализация-и-логирование-данных)
 
 
 
@@ -49,5 +50,12 @@
 * [Ссылка Readme.md](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_4/README.md)
 * [Ссылка на Git Hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_4/EDA-4.2_HR_agency.ipynb)
 * [Ссылка на Colab](https://colab.research.google.com/drive/1QDmZZdT8i3-nltIDOlCaLW0cDdEijEZj?usp=sharing)
+
+
+### 6. Project_5 "Визуализация и логирование данных"
+
+* [Ссылка Readme.md](https://github.com/qv1k1/I_Win/tree/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_5#readme)
+* [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_5/noshowappointments_cometml.ipynb)
+* [Ссылка на colab](https://colab.research.google.com/drive/1RHdGWtmYiCqITX3VrE82vrIGACCzWg7w?usp=sharing)
 
 > [К оглавлению](README.md#оглавление)
