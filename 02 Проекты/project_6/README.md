@@ -1,4 +1,4 @@
-# Проект 7. PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle
+# Проект 6. PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle
 
 <center> <img src = https://uniancdn.net/assets/codes-it/images/logos/booking-logo-codes-it.svg alt="drawing" style="width:1000px;"> </center> 
 
