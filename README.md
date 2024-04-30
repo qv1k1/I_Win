@@ -13,6 +13,7 @@
 * [5. Project_4 "ИССЛЕДОВАНИЕ ДАННЫХ HR-АГЕНТСТВА"](README.md#5-project_4-исследование-данных-hr-агентства)
 * [6. Project_5 "Визуализация и логирование данных"](README.md#6-project_5-визуализация-и-логирование-данных)
 * [7. Project_6 "PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle"](README.md#7-project-3-eda-feature-engineering-соревнование-на-kaggle)
+* [8. Project_7 Прогнозирование оттока клиентов банка](README.md#8-project_7-прогнозирование-оттока-клиентов-банка)
 
 
 
@@ -66,6 +67,13 @@
 * [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_6/version-32-07-04-24.ipynb)
 * [Ссылка на colab](https://colab.research.google.com/drive/1K3dD6QGTtGsna0ZPSRRoikkrmsKrA1IC?usp=sharing)
 * [Ссылка на kaggle](https://www.kaggle.com/code/gonaspect/version-32-07-04-24)
+
+### 8. Project_7 Прогнозирование оттока клиентов банка
+
+* [Ссылка Readme.md](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_7/README.md)
+* [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_7/ML-3._%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+* [Ссылка на colab](https://colab.research.google.com/drive/15GGW0KxNOEBLIomSIg2s3g5xnfUYZRyr)
+* [Ссылка на kaggle](https://www.kaggle.com/code/gonaspect/prognoz-banka-30-04-24?scriptVersionId=174887163)
 
 > [К оглавлению](README.md#оглавление)
 
