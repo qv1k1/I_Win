@@ -14,6 +14,8 @@
 * [6. Project_5 "Визуализация и логирование данных"](README.md#6-project_5-визуализация-и-логирование-данных)
 * [7. Project_6 "PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle"](README.md#7-project-3-eda-feature-engineering-соревнование-на-kaggle)
 * [8. Project_7 Прогнозирование оттока клиентов банка](README.md#8-project_7-прогнозирование-оттока-клиентов-банка)
+* [9. Project_8 ML-6. Отбор и селекция признаков](README.md#9-project_8-ml-6-отбор-и-селекция-признаков)
+
 
 
 
@@ -74,6 +76,13 @@
 * [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_7/ML-3._%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 * [Ссылка на colab](https://colab.research.google.com/drive/15GGW0KxNOEBLIomSIg2s3g5xnfUYZRyr)
 * [Ссылка на kaggle](https://www.kaggle.com/code/gonaspect/prognoz-banka-30-04-24?scriptVersionId=174887163)
+
+### 9. Project_8 ML-6. Отбор и селекция признаков
+
+* [Ссылка Readme.md](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_8/README.md)
+* [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_8/ML-6.9.%20%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20ML-6%20(HW-03)%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%209.5.ipynb)
+* [Ссылка на colab](https://colab.research.google.com/drive/11Vm9ZZ5j9wKuJSty3XN0XnkuAPys3gZw?usp=sharing)
+
 
 > [К оглавлению](README.md#оглавление)
 
