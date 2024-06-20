@@ -16,6 +16,7 @@
 * [8. Project_7 Прогнозирование оттока клиентов банка](README.md#8-project_7-прогнозирование-оттока-клиентов-банка)
 * [9. Project_8 ML-6. Отбор и селекция признаков](README.md#9-project_8-ml-6-отбор-и-селекция-признаков)
 * [10. Project_9 Предсказывание биологических молекул по их химическому составу](README.md#10-project_9-предсказывание-биологических-молекул-по-их-химическому-составу)
+* [11. Project_10 Задача классификации](README.md#11-project_10-задача-классификации)
 
 
 
@@ -89,6 +90,12 @@
 * [Ссылка Readme.md](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_9/README.md)
 * [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_9/ML-7.%20%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb)
 * [Ссылка на colab](https://colab.research.google.com/drive/1oesXokqTPusIf6gv0-vdlaphg4yKi8Bl?usp=sharing)
+
+### 11. Project_10 Задача классификации
+
+* [Ссылка Readme.md](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_10/README.md)
+* [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_10/Project_4_ML.ipynb)
+* [Ссылка на colab](https://colab.research.google.com/drive/1-mDozFAwDzVQuwsvAL3Gw0yfh4jneI7i?usp=sharing)
 
 
 
