@@ -17,7 +17,7 @@
 * [9. Project_8 ML-6. Отбор и селекция признаков](README.md#9-project_8-ml-6-отбор-и-селекция-признаков)
 * [10. Project_9 Предсказывание биологических молекул по их химическому составу](README.md#10-project_9-предсказывание-биологических-молекул-по-их-химическому-составу)
 * [11. Project_10 Задача классификации](README.md#11-project_10-задача-классификации)
-
+* [12. Project_11 Прогноз продуктивности животных](README.md#12-project_11-прогноз-продуктивности-животных)
 
 
 
@@ -97,7 +97,12 @@
 * [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_10/Project_4_ML.ipynb)
 * [Ссылка на colab](https://colab.research.google.com/drive/1-mDozFAwDzVQuwsvAL3Gw0yfh4jneI7i?usp=sharing)
 
+### 12. Project_11 Прогноз продуктивности животных
 
+* [Ссылка Readme.md](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_11/README.md)
+* [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_11/korova.ipynb)
+* [Ссылка на colab](https://colab.research.google.com/drive/1xq9asaMMkmWpbPXzpOMkIQjnATks_M_5?usp=sharing)
+* [Ссылка на kaagle](https://www.kaggle.com/code/gonaspect/29-06-24-file/notebook?scriptVersionId=187482675)
 
 > [К оглавлению](README.md#оглавление)
 
