@@ -287,10 +287,9 @@ for col in ['animal_id', 'farm', 'mother_id', 'father_id', 'calving_season', 'bi
 
 Для просмотра кода, предлагаю перейти по сслыкам. 
 
-1. [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_10/Project_4_ML.ipynb)
-2. [Ссылка на colab](https://colab.research.google.com/drive/1-mDozFAwDzVQuwsvAL3Gw0yfh4jneI7i?usp=sharing)
-
-
+1. [Ссылка на git hub](https://github.com/qv1k1/I_Win/blob/main/02%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/project_11/korova.ipynb)
+2. [Ссылка на colab](https://colab.research.google.com/drive/1xq9asaMMkmWpbPXzpOMkIQjnATks_M_5?usp=sharing)
+3. [Ссылка на kaagle](https://www.kaggle.com/code/gonaspect/29-06-24-file/notebook?scriptVersionId=187482675)
 
 ### Выводы
 
