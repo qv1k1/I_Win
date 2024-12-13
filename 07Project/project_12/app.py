@@ -1,6 +1,7 @@
 
 import streamlit as st
 
+
 # Заголовок приложения
 st.title('Добро пожаловать в мое приложение!')
 
@@ -68,14 +69,14 @@ if st.session_state.day < len(events):
     if st.button('❌ Не участвую', key='skip'):
         st.session_state.day += 1
 
-    st.experimental_rerun()  # Можно убрать этот вызов
+    # st.experimental_rerun()  # Можно убрать этот вызов
 else:
     st.write("## Игра завершена!")
     st.write(f"Ваш итоговый баланс: {st.session_state.balance} руб.")
     if st.button('Начать сначала'):
         st.session_state.balance = START_BALANCE
         st.session_state.day = 0
-        st.experimental_rerun()  # Этот метод тоже можно убрать
+        # st.experimental_rerun()  # Этот метод тоже можно убрать
 
 
 
