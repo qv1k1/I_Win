@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # 🟢 Вставьте сюда URL из вашего Google Apps Script
-WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbx_m-8lsZCBR4MsQ9EgmEYkfoWXkRw59EjWhwQfkdIjCYnsK7gnoHHlAGjUlwaqW-2w/exec'
+WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbxuw_ZL7D7nC7_q-skOGuPp3q6EHlBEaMUQ5Tk4Lt2bjOvxCIk2oJfCUm84CJd6kkL1cg/exec'
 
 # ✅ Логика приложения
 if 'user_name' not in st.session_state:
@@ -15,7 +15,7 @@ if 'day' not in st.session_state:
     st.session_state['day'] = 0  
 
 if not st.session_state['user_name']:  
-    st.title('👋 Добро пожаловать в мое упражнение!')
+    st.title('👋 Добро пожаловать в упражнение №2!')
     name = st.text_input('Введите ваше имя:', key='name_input')
 
     if st.button('Начать опрос'):
