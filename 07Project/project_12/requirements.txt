@@ -3,7 +3,12 @@ pandas
 matplotlib
 seaborn
 requests
-random
 os
 tempfile
 
+# random
+# streamlit
+# pandas
+# matplotlib
+# seaborn
+# requests
