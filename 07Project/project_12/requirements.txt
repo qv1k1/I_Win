@@ -2,3 +2,8 @@ streamlit
 pandas
 matplotlib
 seaborn
+requests
+random
+os
+tempfile
+
