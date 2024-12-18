@@ -8,7 +8,7 @@ import os
 import tempfile
 
 # URL вашего веб-приложения (Apps Script URL)
-WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbw0CPfgmyqLYLRrbo9SohnVk0vhRBG3_cMsDjJETP-3BKiP9bRHAjk8TAFY5caEdNSs/exec'
+WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbxN7dflhLvet3EvhgVap7wmWKVYd9Eu-ZUx65oyxfwS7KF8Bkv00xnlk9CzOn5abWFI/exec'
 
 # Инициализация сессии
 if 'current_index' not in st.session_state:
