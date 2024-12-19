@@ -1,4 +1,3 @@
-    
 import streamlit as st
 import pandas as pd
 import requests
@@ -138,6 +137,13 @@ else:
         
         with col2:
             if st.button('Пропустить (Отказаться)'):
+                st.session_state.decisions.append({
+                    'Название актива': '',
+                    'Сумма актива': 0,
+                    'Ежемесячный денежный поток': 0,
+                    'Название пассива': '',
+                    'Сумма пассива': 0
+                })
                 st.session_state.current_index += 1
                 st.rerun()
     
@@ -215,4 +221,3 @@ else:
             
             except Exception as e:
                 st.error(f"❌ Произошла ошибка при отправке данных: {e}")
-        
