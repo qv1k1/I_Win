@@ -130,4 +130,5 @@ else:
             st.session_state['balance'] = 200000
             st.session_state['day'] = 0
             st.session_state['user_name'] = ''  
-            st.experimental_rerun()
+            # st.experimental_rerun()
+            st.rerun()
