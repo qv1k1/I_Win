@@ -6,7 +6,11 @@ WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbxuw_ZL7D7nC7_q-skOGuPp3q
 
 # ✅ Логика приложения
 if 'user_name' not in st.session_state:
-    st.session_state['user_name'] = ''  
+    st.session_state['user_name'] = None  # Устанавливаем начальное значение None
+
+
+if 'consent_given' not in st.session_state:
+    st.session_state['consent_given'] = False  # Флаг для согласия
 
 if 'balance' not in st.session_state:
     st.session_state['balance'] = 200000  
@@ -14,16 +18,35 @@ if 'balance' not in st.session_state:
 if 'day' not in st.session_state:
     st.session_state['day'] = 0  
 
-if not st.session_state['user_name']:  
-    st.title('👋 Добро пожаловать в упражнение №2!')
-    name = st.text_input('Введите ваше имя:', key='name_input')
+# 🟢 Экран приветствия с вводом имени и согласием на обработку данных
+if st.session_state['user_name'] is None or not st.session_state['consent_given']:
+    st.title("👋 Добро пожаловать в упражнение №1!")
+    st.write("""
+    **Правила игры:**
+    - У вас 31 день!
+    - Каждый день это новая ситуация.
+    - Вы решаете, как поступить в каждом из дней.
+    - Успехов!
+    """)
 
-    if st.button('Начать опрос'):
-        if name.strip():  
-            st.session_state['user_name'] = name
-            st.success(f'Привет, {name}! Давайте начнем игру!')
+    user_name = st.text_input("Введите ваше имя, чтобы начать игру", key="user_name_input")
+
+    consent = st.checkbox(
+        "Нажимая кнопку «Начать», я даю свое согласие на обработку моих персональных данных, в соответствии с Федеральным законом от 27.07.2006 года №152-ФЗ «О персональных данных»",
+        value=False,
+        key="consent_checkbox"
+    )
+
+    if st.button("Начать"):
+        if not user_name:
+            st.error("Пожалуйста, введите ваше имя!")
+        elif not consent:
+            st.error("Необходимо дать согласие на обработку персональных данных.")
         else:
-            st.error('Имя не может быть пустым!')
+            st.session_state['user_name'] = user_name
+            st.session_state['consent_given'] = True
+            # st.experimental_rerun()
+            st.rerun()
 
 else:
     st.title(f'Привет, {st.session_state["user_name"]}!')
