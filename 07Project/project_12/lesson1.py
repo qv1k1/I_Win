@@ -85,7 +85,7 @@ else:
         {'day': 30, 'description': 'Купили велосипед', 'amount': 30000},
         {'day': 31, 'description': 'Организовали вечеринку', 'amount': 15000},
     ]
-
+        
     if st.session_state['day'] < len(events):
         event = events[st.session_state['day']]
         st.write(f"### День {event['day']}: {event['description']}")
