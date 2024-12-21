@@ -215,7 +215,7 @@ else:
                 response = requests.post(WEB_APP_URL, json=payload)
                 
                 if response.status_code == 200:
-                    st.success("✅ Данные успешно отправлены в Google таблицу!")
+                    st.success("✅ Данные успешно отправлены!")
                 else:
                     st.error(f"❌ Ошибка при отправке данных. Код ошибки: {response.status_code}")
             
